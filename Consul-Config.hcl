@@ -9,7 +9,7 @@
   "verify_outgoing": true,
   "verify_server_hostname": true,
   "ui": true,
-  "encrypt": "VeOFQOnVypxwDaHzLrD+lvjo5vCEBbZ0=",
+  "encrypt": "somerandomstring",
   "leave_on_terminate": true,
   "data_dir": "/opt/consul/",
   "datacenter": "dc_Interview1",
