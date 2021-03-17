@@ -17,7 +17,7 @@
   "bind_addr": "10.0.101.84",
   "advertise_addr": "10.0.101.84",
   "bootstrap_expect": 5,
-  "retry_join": ["provider=aws tag_key=Environment-Name tag_value=consul-cluster region=us-east-1"],
+   "retry_join": ["provider=aws tag_key=Environment tag_value=HashiCorp-Demo-AWS tag_key=Name tag_value=my-ec2-cluster-1 tag_key=Terraform tag_true region=us-east-1"],
   "enable_syslog": true,
   "acl": {
    "enabled": true,
